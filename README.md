@@ -1,6 +1,6 @@
 ## Aplicação sobre reciclagem
 
-## Somente o front-end, usar o back-end "https://github.com/Ignacio-antonio/NLW.1"
+[LINK para o Back-end](https://github.com/Ignacio-antonio/NLW.1Backend)
 
 ### Feito através da NLW 1.0 da rocketseat.
 
